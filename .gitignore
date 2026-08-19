@@ -10,8 +10,10 @@ _zip_staging/
 *.lib
 *.exp
 *.pdb
-*.zip
 *.7z
+
+# Allow release zip package
+!obs-dual-record-plugin.zip
 
 # IDE & Editor files
 .vs/
