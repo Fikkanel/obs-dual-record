@@ -1,0 +1,27 @@
+# Build directories
+build*/
+build_x64/
+_zip_staging/
+.deps/
+
+# Compiled Binaries & Libraries
+*.dll
+*.exe
+*.lib
+*.exp
+*.pdb
+*.zip
+*.7z
+
+# IDE & Editor files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# System & Log files
+*.log
+*.tmp
+thumbs.db
+Desktop.ini
